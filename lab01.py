@@ -54,6 +54,7 @@ def show_menu():
     print("2. Add Expense")
     print("3. View Summary")
     print("4. Exit")
+    
      
 
 def main():
